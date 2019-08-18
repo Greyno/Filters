@@ -2,7 +2,7 @@
 //  RepositionViewController.swift
 //  SwipeFilteredImages
 //
-//  Created by Gillian Reynolds-Titko on 8/17/19.
+//  Created by G R-Titko on 8/16/19.
 //  Copyright © 2019 GRey-T-Programs. All rights reserved.
 //
 //Source code: https://stackoverflow.com/questions/37286952/move-uiimageview-independently-from-its-mask-in-swift

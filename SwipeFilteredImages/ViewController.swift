@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  SwipeFilteredImages
 //
-//  Created by Gillian Reynolds-Titko on 8/16/19.
+//  Created by G R-Titko on 8/16/19.
 //  Copyright © 2019 GRey-T-Programs. All rights reserved.
 //
 //Inspiration: https://stackoverflow.com/questions/23319497/swipe-between-filtered-images

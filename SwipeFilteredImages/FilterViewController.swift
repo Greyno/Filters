@@ -2,7 +2,7 @@
 //  FilterViewController.swift
 //  SwipeFilteredImages
 //
-//  Created by Gillian Reynolds-Titko on 8/17/19.
+//  Created by G R-Titko on 8/17/19.
 //  Copyright © 2019 GRey-T-Programs. All rights reserved.
 //
 
